@@ -95,6 +95,10 @@ p {
 #headerwrap {     
 margin-top: 96px;	
 }
+#headerwrap h1 {
+	font-size: 100% 
+}
+
 
 /*-------------------Slider-------------*/
 
